@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @V-arshaSharma
-- 👀 I’m interested in .Data Analysis, ML and AI
-- 🌱 I’m currently learning learning SQL and Python
-- 💞️ I’m looking to collaborate on Data Exploratry, Cleaning and Visualisation projects
+- 🌱 I’m currently working as a data scientist
 - 📫 How to reach me varsh.45466@gmail.com
 
 <!---
